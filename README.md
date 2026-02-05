@@ -63,7 +63,7 @@ O CSS foi utilizado para criar uma organização visual básica da página, incl
 
 ## 👩‍💻 Participante
 
-**Kaori Yonamine**
+**Natasha Kaori**
 
 ---
 
