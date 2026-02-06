@@ -23,12 +23,11 @@ A página foi construída utilizando as principais tags semânticas do HTML5, co
   * Título do post (H2)
   * Parágrafos de conteúdo
   * Imagem com `figure`, `img`, `alt` e `figcaption`
+  * Aside
 
 * **Section**
 
   * Conteúdo complementar com subtítulo (H3)
-
-* **Aside**
 
 * **Footer**
 
